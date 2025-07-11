@@ -13,7 +13,7 @@
     <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
 
     <application
-        android:label="flutter_notification"
+        android:label="Flutter Notification"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
